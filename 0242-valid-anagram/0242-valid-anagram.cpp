@@ -1,16 +1,12 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        std::unordered_map<char,int> mapA;
-        std::unordered_map<char,int> mapB;
+        if(s.length() != t.length()){
+            return false;
+        } 
+        sort(s.begin(),s.end());
+        sort(t.begin(),t.end());
 
-        for(const auto &element: s){
-            mapA[element]++;
-        }
-        for(const auto &element: t){
-            mapB[element]++;
-        }
-        return mapA == mapB;
-        
+        return s==t;
     }
 };
