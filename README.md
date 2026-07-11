@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0417/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0896-monotonic-array](https://github.com/sarthak0417/LeetCode/tree/master/0896-monotonic-array) |
 ## Stack
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthak0417/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
