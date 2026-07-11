@@ -22,7 +22,7 @@ public:
         }
     }
 };
-/*
+/* only 2 test cases passed
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
