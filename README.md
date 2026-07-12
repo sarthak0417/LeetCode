@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthak0417/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0417/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0896-monotonic-array](https://github.com/sarthak0417/LeetCode/tree/master/0896-monotonic-array) |
 ## Stack
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sarthak0417/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthak0417/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarthak0417/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthak0417/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sarthak0417/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -65,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthak0417/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
