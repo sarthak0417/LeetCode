@@ -8,7 +8,7 @@ public:
         while (left < right) {
             int sum = numbers[left] + numbers[right];
             if (sum == target) {
-                return {left+1, right+1};
+                return {left+1, right+1}; // 1 indexe or 1 based indexing
             } else if (sum < target) {
                 left++;
             } else {
