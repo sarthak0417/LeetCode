@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
@@ -26,7 +26,8 @@ public:
         return longest;
     }
 };
-/*
+*/
+
 
 class Solution {
 public:
@@ -52,4 +53,3 @@ public:
         return longest;
     }
 };
-*/
