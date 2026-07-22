@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthak0417/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sarthak0417/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sarthak0417/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/sarthak0417/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sarthak0417/LeetCode/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthak0417/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthak0417/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sarthak0417/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sarthak0417/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthak0417/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
