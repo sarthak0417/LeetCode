@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sarthak0417/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sarthak0417/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sarthak0417/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthak0417/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
@@ -182,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sarthak0417/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sarthak0417/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
