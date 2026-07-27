@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarthak0417/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/sarthak0417/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sarthak0417/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthak0417/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarthak0417/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sarthak0417/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthak0417/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/sarthak0417/LeetCode/tree/master/0231-power-of-two) |
