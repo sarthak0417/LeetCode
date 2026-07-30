@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sarthak0417/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sarthak0417/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthak0417/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sarthak0417/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthak0417/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthak0417/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sarthak0417/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak0417/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sarthak0417/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sarthak0417/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthak0417/LeetCode/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarthak0417/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
