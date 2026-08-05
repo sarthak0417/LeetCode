@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarthak0417/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sarthak0417/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sarthak0417/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sarthak0417/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sarthak0417/LeetCode/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthak0417/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sarthak0417/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthak0417/LeetCode/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthak0417/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/sarthak0417/LeetCode/tree/master/2235-add-two-integers) |
 ## Greedy
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthak0417/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sarthak0417/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak0417/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -260,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sarthak0417/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
