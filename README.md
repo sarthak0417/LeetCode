@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthak0417/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0417/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sarthak0417/LeetCode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarthak0417/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak0417/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0417/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthak0417/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/sarthak0417/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sarthak0417/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Minimax
 |  |
 | ------- |
@@ -300,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthak0417/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
