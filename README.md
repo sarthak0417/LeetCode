@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sarthak0417/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sarthak0417/LeetCode/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/sarthak0417/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/sarthak0417/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/sarthak0417/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthak0417/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sarthak0417/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sarthak0417/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthak0417/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/sarthak0417/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthak0417/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0417/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sarthak0417/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/sarthak0417/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthak0417/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
