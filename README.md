@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sarthak0417/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthak0417/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthak0417/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthak0417/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/sarthak0417/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthak0417/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/sarthak0417/LeetCode/tree/master/3731-find-missing-elements) |
