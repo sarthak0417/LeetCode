@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sarthak0417/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarthak0417/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sarthak0417/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sarthak0417/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sarthak0417/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sarthak0417/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sarthak0417/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak0417/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sarthak0417/LeetCode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sarthak0417/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
