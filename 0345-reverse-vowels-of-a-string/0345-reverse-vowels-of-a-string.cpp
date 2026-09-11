@@ -8,18 +8,19 @@ public:
 
         while (left < right) {
 
-            while (left < right && vowels.find(s[left]) == string::npos) {
+            if (vowels.find(s[left]) == string::npos) {
                 left++;
             }
 
-            while (left < right && vowels.find(s[right]) == string::npos) {
+            else if (vowels.find(s[right]) == string::npos) {
                 right--;
             }
 
-            swap(s[left], s[right]);
-
-            left++;
-            right--;
+            else {
+                swap(s[left], s[right]);
+                left++;
+                right--;
+            }
         }
 
         return s;
