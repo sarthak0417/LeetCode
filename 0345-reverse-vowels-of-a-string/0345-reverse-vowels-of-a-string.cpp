@@ -1,28 +1,22 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        int left = 0;
-        int right = s.size() - 1;
+        int i = 0;
+        int j = s.size() - 1;
 
         string vowels = "aeiouAEIOU";
 
-        while (left < right) {
-
-            if (vowels.find(s[left]) == string::npos) {
-                left++;
-            }
-
-            else if (vowels.find(s[right]) == string::npos) {
-                right--;
-            }
-
-            else {
-                swap(s[left], s[right]);
-                left++;
-                right--;
+        while (i < j) {
+            if (vowels.find(s[i]) == string::npos) {
+                i++;
+            } else if (vowels.find(s[j]) == string::npos) {
+                j--;
+            } else {
+                swap(s[i], s[j]);
+                i++;
+                j--;
             }
         }
-
         return s;
     }
 };
