@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthak0417/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sarthak0417/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthak0417/LeetCode/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/sarthak0417/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sarthak0417/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthak0417/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthak0417/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthak0417/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sarthak0417/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
